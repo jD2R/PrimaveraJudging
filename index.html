@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <title>Primavera Judging</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="page">
+
+        <h1>Judging Program</h1>
+
+        <div id="selections">
+
+            <label for="judges">Name:</label>
+            <select name="judges" id="judgeSelect"></select><br>
+
+            <label for="judges">Challenge:</label>
+            <select name="challenges" id="challengeSelect">
+                <option value="C2">Challenge 2: A &| B</option>
+                <option value="C3">Challenge 3: Interactivity</option>
+                <option value="C4">Challenge 4: Hour of Code</option>
+                <option value="C5">Challenge 5: Team Merges</option>
+                <option value="C6">Challenge 6: Grand Finale</option>
+            </select><br>
+
+            <button id="selectButton">Go</button>
+
+        </div>
+
+        <br>
+        <button class="accordion">
+            <h3>Assignments</h3>
+            <span id="accordion-icon" class="material-icons">add</span>
+        </button>
+        <div class="panel">
+            <h3>Challenge 2: A &| B</h3>
+            <p>
+                <b>Aequor</b>: Dominic, ski<br>
+                <b>Pyroach</b>: Dominic, Liam<br>
+                <b>Aviconazul</b>: Astro, SMV<br>
+                <b>Terratrice</b>: F4stB01, Astro<br>
+            </p>
+            <h3>Challenge 3: Interactivity</h3>
+            <p>
+                <b>Aequor</b>: SMV, Astro<br>
+                <b>Pyroach</b>: F4stB01, Dominic<br>
+                <b>Aviconazul</b>: Liam, ski<br>
+                <b>Terratrice</b>: ski, Dominic<br>
+            </p>
+            <h3>Challenge 4: Hour of Code</h3>
+            <p>
+                <b>Aequor</b>: Liam, ski<br>
+                <b>Pyroach</b>: F4stB01, SMV<br>
+                <b>Aviconazul</b>: Dominic, SMV<br>
+                <b>Terratrice</b>: Astro, Dominic<br>
+            </p>
+            <h3>Challenge 5: Team Merges</h3>
+            <p>
+                <b>Terratrice/Aequor</b>: ski, Astro, F4stB01<br>
+                <b>Pyroach/Aviconazul</b>: Dominic, SMV, Liam<br>
+            </p>
+            <h3>Challenge 6: Grand Finale</h3>
+            <p>
+                <b>Terratrice/Aequor</b>: SMV, Astro, Liam<br>
+                <b>Pyroach/Aviconazul</b>: F4stB01, ski, Dominic<br>
+            </p>
+        </div>
+
+    </section>
+
+    <section class="page">
+        <h1 id="welcomeMsg"></h1>
+        <h3 id="challengeMsg"></h3>
+
+        <div id="projects"></div><br>
+        <button id="submitJudgments">Submit</button>
+    </section>
+
+    <section class="page">
+        <h1>Your scores are available below.</h1>
+        <h3>Paste the JSON output in a host-approved judgment location. Thanks for completing the form! 🚀</h3>
+        <p>Tip: Click on the box, Ctrl+A to select content, and Ctrl+C to copy!</p>
+        <textarea readonly id="judgingOutput" rows="20" cols="80"></textarea>
+    </section>
+
+    <script src="script.js" type="module"></script>
+</body>
+
+</html>
