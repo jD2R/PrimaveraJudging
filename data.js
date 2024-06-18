@@ -572,7 +572,18 @@ const ChallengeData = {
 			team: 'Terratrice/Aequor'
 		}
 	],
-	"C6": []
+	"C6": [
+		{
+			name: 'A+10333',
+			link: 'https://www.khanacademy.org/computer-programming/elemental-arena-game/5555518286774272',
+			team: 'Terratrice/Aequor'
+		},
+		{
+			name: 'TheDuke',
+			link: 'https://www.khanacademy.org/computer-programming/mario-party-wip-ig/6399345150312448',
+			team: 'Pyroach/Aviconazul'
+		}
+	]
 };
 const Judges = [
 	["Dominic R.", "DR"],
