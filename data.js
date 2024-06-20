@@ -351,7 +351,7 @@ const ChallengeData = {
 		},
 		{
 			name: 'IZH1',
-			link: 'www.khanacademy.org/profile/kaid_797773915164293752310801',
+			link: 'www.khanacademy.org/computer-programming/primavera-challenge-4/6064661530853376',
 			team: 'Aequor'
 		},
 		{
