@@ -1,0 +1,36 @@
+{
+    name: "Theformerwizardofoz",
+    score: 1.25
+},
+{
+    name: "CodingChamp01",
+    score: 1.88
+},
+{
+    name: "Electric Dolphin",
+    score: 3.88
+},
+{
+    name: "Chickenfarmer2009",
+    score: 2
+},
+{
+    name: "VVhiteTiger",
+    score: 1.63
+},
+{
+    name: "Ducky Momo",
+    score: 3.75
+},
+{
+    name: "SuperNova",
+    score: 4.13
+},
+{
+    name: "TDJ",
+    score: 3.5
+},
+{
+    name: "kiaantolia",
+    score: 4.13
+},

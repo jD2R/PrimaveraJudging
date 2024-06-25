@@ -1,0 +1,28 @@
+{
+    name: "Cookie",
+    score: 3.75
+},
+{
+    name: "Snowflake",
+    score: 4
+},
+{
+    name: "A+10333",
+    score: 2.88
+},
+{
+    name: "Samwise #JesusuIsKing",
+    score: 2.5
+},
+{
+    name: "panda",
+    score: 4.13
+},
+{
+    name: "LeaferStudios",
+    score: 6.63
+},
+{
+    name: "~The Wolf~",
+    score: 3.25
+},

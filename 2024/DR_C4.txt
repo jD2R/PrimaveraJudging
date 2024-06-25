@@ -1,0 +1,56 @@
+{
+	name: "Squid/Super Student",
+	score: 2.75
+},
+{
+	name: "Duke",
+	score: 2.88
+},
+{
+	name: "cwalsh1223",
+	score: 3.13
+},
+{
+	name: "Dipper98",
+	score: 3.13
+},
+{
+	name: "RomanStarCoder",
+	score: 1.63
+},
+{
+	name: "coliso",
+	score: 3.38
+},
+{
+	name: "Cyan Spirit",
+	score: 2.25
+},
+{
+	name: "Cookie",
+	score: 1.88
+},
+{
+	name: "Snowflake",
+	score: 2.75
+},
+{
+	name: "A+10333",
+	score: 3.38
+},
+{
+	name: "Samwise #JesusuIsKing",
+	score: 2.63
+},
+{
+	name: "panda",
+	score: 2.63
+},
+{
+	name: "LeaferStudios",
+	score: 4.13
+},
+{
+	name: "~The Wolf~",
+	score: 2.38
+},

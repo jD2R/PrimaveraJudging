@@ -1,0 +1,40 @@
+{
+    name: "LeaferStudios",
+    score: 3.5
+},
+{
+    name: "A+10333",
+    score: 5
+},
+{
+    name: "Bearkirb",
+    score: 7.63
+},
+{
+    name: "Jake K.",
+    score: 7
+},
+{
+    name: "Samwise",
+    score: 2
+},
+{
+    name: "panda",
+    score: 5.38
+},
+{
+    name: "Brikraeb",
+    score: 6.5
+},
+{
+    name: "Cookie",
+    score: 2.25
+},
+{
+    name: "Canada Goose",
+    score: 6.5
+},
+{
+    name: "WalkWorthy",
+    score: 5.25
+},

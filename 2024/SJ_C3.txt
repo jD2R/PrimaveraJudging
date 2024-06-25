@@ -1,0 +1,56 @@
+{
+    name: "Duke",
+    score: 1.63
+},
+{
+    name: "coliso",
+    score: 5.5
+},
+{
+    name: "Dipper98",
+    score: 0
+},
+{
+    name: "Squid/Super Student",
+    score: 2.5
+},
+{
+    name: "cwalsh1223",
+    score: 0
+},
+{
+    name: "RomanStarCoder",
+    score: 0
+},
+{
+    name: "Doglover",
+    score: 3
+},
+{
+    name: "RedSus",
+    score: 5.75
+},
+{
+    name: "LeaferStudios",
+    score: 1.88
+},
+{
+    name: "~The Wolf~",
+    score: 3.25
+},
+{
+    name: "A+10333",
+    score: 1.5
+},
+{
+    name: "panda",
+    score: 2
+},
+{
+    name: "TTyper",
+    score: 0
+},
+{
+    name: "Bearkirb",
+    score: 8.38
+},

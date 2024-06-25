@@ -1,0 +1,28 @@
+{
+name: "Lightning",
+score: 4.63
+},
+{
+name: "Arden Dragon",
+score: 3.25
+},
+{
+name: "TD Overlord",
+score: 1.38
+},
+{
+name: "AsclepiusorAce",
+score: 0.75
+},
+{
+name: "Futbol Guy",
+score: 1.5
+},
+{
+name: "sgh07",
+score: 0.75
+},
+{
+name: "IZH1",
+score: 0.63
+},
