@@ -1,4 +1,0 @@
-{
-    name: "TheDuke",
-    score: 8.13
-},
