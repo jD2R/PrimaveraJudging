@@ -599,7 +599,7 @@ const Assignments = {
 		["Pyroach", "Terratrice"],
 		["Aviconazul", "Terratrice"],
 		["Pyroach/Aviconazul"],
-		["Pyroach/Aviconazul"]
+		["Terratrice/Aequor"]
 	],
 	"LK": [
 		["Pyroach"],
@@ -620,7 +620,7 @@ const Assignments = {
 		["Aequor"],
 		["Terratrice"],
 		["Terratrice/Aequor"],
-		["Terratrice/Aequor"]
+		["Pyroach/Aviconazul"]
 	],
 	"F1": [
 		["Terratrice"],
@@ -636,6 +636,16 @@ const Assignments = {
 		["Pyroach/Aviconazul"],
 		["Terratrice/Aequor"]
 	]
+};
+
+// Number of judges doing each team for each challenge.
+// This number is ALWAYS constant across teams to ensure fairness.
+const JudgeQuantity = {
+	"C2": 2,
+	"C3": 2,
+	"C4": 2,
+	"C5": 3,
+	"C6": 3	
 };
 
 // * PROGRAM FUNCTIONS *
@@ -656,4 +666,4 @@ const Assignments = {
 	});
 })();
 
-export { ChallengeData, Judges, Assignments };
+export { ChallengeData, Judges, Assignments, JudgeQuantity };
