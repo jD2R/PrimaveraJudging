@@ -1,0 +1,68 @@
+{
+	name: "Lily",
+	score: 2.63
+},
+{
+	name: "Arden Dragon",
+	score: 3.75
+},
+{
+	name: "Lightning",
+	score: 2.88
+},
+{
+	name: "arn5891",
+	score: 0.25
+},
+{
+	name: "Futbol Guy",
+	score: 0.25
+},
+{
+	name: "Jadie",
+	score: 6
+},
+{
+	name: "IZH1",
+	score: 3.13
+},
+{
+	name: "sgh07",
+	score: 2.25
+},
+{
+	name: "AsclepiusorAce",
+	score: 1.88
+},
+{
+	name: "Theformerwizardofoz",
+	score: 4
+},
+{
+	name: "TDJ",
+	score: 5.75
+},
+{
+	name: "Coder2098",
+	score: 3
+},
+{
+	name: "Godgirl",
+	score: 2
+},
+{
+	name: "Ducky Momo",
+	score: 3
+},
+{
+	name: "VVhiteTiger",
+	score: 1.75
+},
+{
+	name: "SuperNova",
+	score: 1.63
+},
+{
+	name: "Electric Dolphin",
+	score: 5.13
+},

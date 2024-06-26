@@ -1,0 +1,36 @@
+{
+    name: "Lily",
+    score: 1.38
+},
+{
+    name: "Arden Dragon",
+    score: 2.75
+},
+{
+    name: "Lightning",
+    score: 1.5
+},
+{
+    name: "arn5891",
+    score: 4
+},
+{
+    name: "Futbol Guy",
+    score: 0
+},
+{
+    name: "Jadie",
+    score: 5.88
+},
+{
+    name: "IZH1",
+    score: 1.25
+},
+{
+    name: "sgh07",
+    score: 0.63
+},
+{
+    name: "AsclepiusorAce",
+    score: 0
+},

@@ -1,0 +1,44 @@
+{
+	name: "Ducky Momo",
+	score: 5.25
+},
+{
+	name: "Squid",
+	score: 5.25
+},
+{
+	name: "kiaantolia",
+	score: 5
+},
+{
+	name: "cwalsh1223",
+	score: 4.25
+},
+{
+	name: "TheDuke",
+	score: 6.88
+},
+{
+	name: "TDJ",
+	score: 7
+},
+{
+	name: "Yokiebob",
+	score: 5.75
+},
+{
+	name: "Chickenfarmer2009",
+	score: 4.25
+},
+{
+	name: "SuperNova",
+	score: 4.38
+},
+{
+	name: "Noah H.",
+	score: 4.63
+},
+{
+	name: "Doglover",
+	score: 5.88
+},

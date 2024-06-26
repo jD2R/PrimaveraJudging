@@ -1,0 +1,64 @@
+{
+name: "Theformerwizardofoz",
+score: 0.63
+},
+{
+name: "CodingChamp01",
+score: 2.38
+},
+{
+name: "Electric Dolphin",
+score: 3.88
+},
+{
+name: "Chickenfarmer2009",
+score: 0.38
+},
+{
+name: "VVhiteTiger",
+score: 1.13
+},
+{
+name: "Ducky Momo",
+score: 0.88
+},
+{
+name: "SuperNova",
+score: 1.5
+},
+{
+name: "TDJ",
+score: 3.25
+},
+{
+name: "kiaantolia",
+score: 3.13
+},
+{
+name: "Squid/Super Student",
+score: 2.13
+},
+{
+name: "Duke",
+score: 2.88
+},
+{
+name: "cwalsh1223",
+score: 0.75
+},
+{
+name: "Dipper98",
+score: 2.5
+},
+{
+name: "RomanStarCoder",
+score: 0.25
+},
+{
+name: "coliso",
+score: 3.5
+},
+{
+name: "Cyan Spirit",
+score: 0.25
+},
