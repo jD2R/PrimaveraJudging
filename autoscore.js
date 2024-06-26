@@ -7,7 +7,7 @@ const challengeID = "C2";
 import * as fs from 'fs';
 import * as path from 'path';
 
-import { JudgeQuantity } from './data.js';
+import { JudgeQuantity, ChallengeData } from './data.js';
 import { jsmin } from 'jsmin';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
@@ -67,4 +67,32 @@ const createScoreJSON = (challengeArray) => {
     })
 };
 
-createScoreJSON(["C2", "C3", "C4", "C5", "C6"]);
+const createTeamJSON = (challengeArray) => {
+    challengeArray.forEach(challengeID => {
+        const filePath = path.join(newFolderPath, `${challengeID}.json`);
+        const data = fs.readFileSync(filePath, 'utf8');
+        const JSONdata = JSON.parse(data); // JSON of the individual scores
+    
+        let output = {};
+        const challengeData = ChallengeData[challengeID].map(project => {
+            return [project.name, project.team];
+        });
+        challengeData.forEach(project => {
+            let team = project[1].toLowerCase();
+            let score = JSONdata[project[0]]; // Grab the related individual score
+            
+            output[team] = !output[team] ? +score : +(output[team] + score).toFixed(2);
+        });
+
+        const newFileName = `TeamScores${challengeID}.json`;
+        const newFilePath = path.join(newFolderPath, newFileName);
+        
+        const outputJSON = JSON.stringify(output, null, 2);
+        
+        fs.writeFileSync(newFilePath, outputJSON);
+    });
+};
+
+let challengeArray = ["C2", "C3", "C4", "C5", "C6"];
+createScoreJSON(challengeArray);
+createTeamJSON(challengeArray);
