@@ -1,0 +1,16 @@
+{
+    name: "Arden",
+    score: 4.38
+},
+{
+    name: "sugar",
+    score: 2.75
+},
+{
+    name: "IZH1",
+    score: 1.13
+},
+{
+    name: "Lightning",
+    score: 0.5
+},
